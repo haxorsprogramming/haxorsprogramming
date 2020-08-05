@@ -1,5 +1,5 @@
 ### Haxors project status
-
+<span align='center'>
 <table width='100%'>
   <tr>
     <th>No</th><th>Project</th><th>Status</th><th>Stable Release</th><th>On going to next release</th><th>Demo</th>
@@ -38,5 +38,5 @@
     <td>11</td><td>Uinsu Kita</td><td>On development</td><td></td><td>-</td><td>-</td>
   </tr>
 </table>
-
+</span>
 <h4>Have a great idea? need a partner to make it happen? Come on, contact us at alditha.forum@gmail.com or whatsapp 082272177022</h4>
