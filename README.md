@@ -23,7 +23,7 @@
     <td>6</td><td>Nadha Delivery</td><td>-</td><td></td><td>-</td><td>-</td>
   </tr>
    <tr>
-    <td>7</td><td>Nadha Logistic</td><td>-</td><td></td><td>-</td><td>-</td>
+    <td>7</td><td>Nadha Logistic</td><td>On development</td><td></td><td>-</td><td>-</td>
   </tr>
    <tr>
     <td>8</td><td>Nadha Clinic</td><td>-</td><td></td><td>-</td><td>-</td>
