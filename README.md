@@ -4,7 +4,7 @@
 
 ### Haxors project status
 
-<table border='1'>
+<table>
   <tr>
     <th>No</th><th>Project</th><th>Status</th>
   </tr>
