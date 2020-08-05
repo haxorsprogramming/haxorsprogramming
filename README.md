@@ -2,7 +2,7 @@
 
 <table width='100%'>
   <tr>
-    <th>No</th><th>Project</th><th>Status</th><th>On going ro next release</th><th>Demo</th>
+    <th>No</th><th>Project</th><th>Status</th><th>On going to next release</th><th>Demo</th>
   </tr>
   <tr>
     <td>1</td><td>Nadha Laundry</td><td>Release</td><td>Yes</td><td><a href='http://demo.haxors.or.id/Nadha-Laundry'>Demo</a></td>
