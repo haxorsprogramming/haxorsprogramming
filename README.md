@@ -5,10 +5,10 @@
     <th>No</th><th>Project</th><th>Status</th><th>Demo</th>
   </tr>
   <tr>
-    <td>1</td><td>Nadha Laundry</td><td>Release</td><td></td>
+    <td>1</td><td>Nadha Laundry</td><td>Release</td><td><a href='http://demo.haxors.or.id/Nadha-Laundry'>Demo</a></td>
   </tr>
    <tr>
-    <td>2</td><td>Nadha Resto</td><td>Release</td><td></td>
+    <td>2</td><td>Nadha Resto</td><td>Release</td><td><a href='http://demo.haxors.or.id/Nadha-Resto'>Demo</a></td>
   </tr>
    <tr>
     <td>3</td><td>Nadha School</td><td>On development</td><td></td>
