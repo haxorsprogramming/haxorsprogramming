@@ -28,6 +28,15 @@
    <tr>
     <td>8</td><td>Nadha Clinic</td><td>-</td><td></td><td>-</td><td>-</td>
   </tr>
+  <tr>
+    <td>9</td><td>Uinsu Development Website</td><td>On development</td><td></td><td>-</td><td>-</td>
+  </tr>
+  <tr>
+    <td>10</td><td>Haxors Portal</td><td>On development</td><td></td><td>-</td><td>-</td>
+  </tr>
+  <tr>
+    <td>11</td><td>Uinsu Kita</td><td>On development</td><td></td><td>-</td><td>-</td>
+  </tr>
 </table>
 
 <h4>Have a great idea? need a partner to make it happen? Come on, contact us at alditha.forum@gmail.com or whatsapp 082272177022</h4>
