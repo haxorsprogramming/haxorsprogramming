@@ -29,3 +29,5 @@
     <td>8</td><td>Nadha Clinic</td><td>-</td><td>-</td><td>-</td>
   </tr>
 </table>
+
+<h4>Have a great idea? need a partner to make it happen? Come on, contact us at alditha.forum@gmail.com or whatsapp 082272177022</h4>
