@@ -14,7 +14,7 @@
     <td>3</td><td>Nadha School</td><td>On development</td><td>-</td><td>-</td>
   </tr>
    <tr>
-    <td>4</td><td>Nadha Hotel</td><td>On development</td><td>-</td>td>-</td>
+    <td>4</td><td>Nadha Hotel</td><td>On development</td><td>-</td><td>-</td>
   </tr>
    <tr>
     <td>5</td><td>Nadha Shop</td><td>-</td><td>-</td><td>-</td>
