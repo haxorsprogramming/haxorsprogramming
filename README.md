@@ -8,4 +8,7 @@
   <tr>
     <th>No</th><th>Project</th><th>Status</th>
   </tr>
+  <tr>
+    <td>1</td><td>Nadha Laundry</td><td>Release</td>
+  </tr>
 </table>
