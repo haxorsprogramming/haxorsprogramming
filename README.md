@@ -1,6 +1,6 @@
 ### Haxors project status
 
-<table>
+<table style='width:100%'>
   <tr>
     <th>No</th><th>Project</th><th>Status</th><th>Demo</th>
   </tr>
