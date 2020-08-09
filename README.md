@@ -1,4 +1,4 @@
-### Haxors project status
+### Haxors list project
 <span align='center'>
 <table width='100%'>
   <tr>
@@ -11,31 +11,34 @@
     <td>2</td><td><a href='https://github.com/haxorsprogramming/Nadha-Resto'>Nadha Resto</a></td><td>Release</td><td>V 3.2.0</td><td>Yes</td><td><a href='http://demo.haxors.or.id/Nadha-Resto'>Demo</a></td>
   </tr>
    <tr>
-    <td>3</td><td><a href='https://github.com/haxorsprogramming/Nadha-School'>Nadha School</a></td><td>On development</td><td></td><td>-</td><td>-</td>
+    <td>3</td><td><a href='https://github.com/haxorsprogramming/Nadha-School'>Nadha School</a></td><td>On development</td><td>-</td><td>-</td><td>-</td>
   </tr>
    <tr>
-    <td>4</td><td>Nadha Hotel</td><td>On development</td><td></td><td>-</td><td>-</td>
+    <td>4</td><td>Nadha Hotel</td><td>On development</td><td>-</td><td>-</td><td>-</td>
   </tr>
    <tr>
-    <td>5</td><td>Nadha Shop</td><td>-</td><td></td><td>-</td><td>-</td>
+    <td>5</td><td>Nadha Shop</td><td>-</td><td>-</td><td>-</td><td>-</td>
   </tr>
    <tr>
-    <td>6</td><td>Nadha Delivery</td><td>-</td><td></td><td>-</td><td>-</td>
+    <td>6</td><td>Nadha Delivery</td><td>-</td><td>-</td><td>-</td><td>-</td>
   </tr>
    <tr>
-    <td>7</td><td>Nadha Logistic</td><td>On development</td><td></td><td>-</td><td>-</td>
+    <td>7</td><td>Nadha Logistic</td><td>On development</td><td>-</td><td>-</td><td>-</td>
   </tr>
    <tr>
-    <td>8</td><td>Nadha Clinic</td><td>-</td><td></td><td>-</td><td>-</td>
+    <td>8</td><td>Nadha Clinic</td><td>-</td><td>-</td><td>-</td><td>-</td>
   </tr>
   <tr>
-    <td>9</td><td>Uinsu Development Website</td><td>On development</td><td></td><td>-</td><td>-</td>
+    <td>9</td><td>Uinsu Development Website</td><td>On development</td><td>-</td><td>-</td><td>-</td>
   </tr>
   <tr>
-    <td>10</td><td>Haxors Portal</td><td>On development</td><td></td><td>-</td><td>-</td>
+    <td>10</td><td>Haxors Portal</td><td>On development</td><td>-</td><td>-</td><td>-</td>
   </tr>
   <tr>
-    <td>11</td><td>Uinsu Kita</td><td>On development</td><td></td><td>-</td><td>-</td>
+    <td>11</td><td>Uinsu Kita</td><td>On development</td><td>-</td><td>-</td><td>-</td>
+  </tr>
+  <tr>
+    <td>12</td><td>Haxors Bridsblade</td><td>-</td><td>-</td><td>-</td><td>-</td>
   </tr>
 </table>
 </span>
