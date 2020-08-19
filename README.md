@@ -43,5 +43,3 @@
 </table>
 </span>
 <h4>Have a great idea? need a partner to make it happen? Come on, contact us at alditha.forum@gmail.com or whatsapp 082272177022</h4>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxorsprogramming&layout=compact&hide=html" alt="haxorsprogramming" /></p>
