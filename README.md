@@ -38,7 +38,7 @@
     <td>11</td><td>Uinsu Kita</td><td>On development</td><td>-</td><td>-</td><td>-</td>
   </tr>
   <tr>
-    <td>12</td><td>Haxors Bridsblade</td><td>-</td><td>-</td><td>-</td><td>-</td>
+    <td>12</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td>
   </tr>
 </table>
 </span>
