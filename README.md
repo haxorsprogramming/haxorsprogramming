@@ -42,4 +42,4 @@
   </tr>
 </table>
 </span>
-<h4>Have a great idea? need a partner to make it happen? Come on, contact us at alditha.forum@gmail.com or whatsapp 082272177022</h4>
+<h4>Have a great idea? need a partner to make it happen? Come on, contact us at alditha.forum@gmail.com</h4>
