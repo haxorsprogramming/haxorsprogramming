@@ -17,7 +17,7 @@
     <td>4</td><td>Nadha Hotel</td><td>On development</td><td>-</td><td>-</td><td>-</td>
   </tr>
    <tr>
-    <td>5</td><td>Nadha Shop</td><td>-</td><td>-</td><td>-</td><td>-</td>
+    <td>5</td><td><a href='https://github.com/haxorsprogramming/Nadha-Shop'>Nadha Shop</a></td><td>-</td><td>-</td><td>-</td><td>-</td>
   </tr>
    <tr>
     <td>6</td><td>Nadha Delivery</td><td>-</td><td>-</td><td>-</td><td>-</td>
@@ -26,7 +26,7 @@
     <td>7</td><td><a href='https://github.com/haxorsprogramming/Nadha-Logistic'>Nadha Logistic</a></td><td>On development</td><td>-</td><td>-</td><td>-</td>
   </tr>
    <tr>
-    <td>8</td><td>Nadha Clinic</td><td>-</td><td>-</td><td>-</td><td>-</td>
+    <td>8</td><td><a href='https://github.com/haxorsprogramming/Nadha-Clinic'>Nadha Clinic</a></td><td>-</td><td>-</td><td>-</td><td>-</td>
   </tr>
   <tr>
     <td>9</td><td>Uinsu Development Website</td><td>On development</td><td>-</td><td>-</td><td>-</td>
