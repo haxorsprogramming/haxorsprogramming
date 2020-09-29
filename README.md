@@ -1,4 +1,4 @@
-### Hello, we are Haxorsprogramming. Programming club at the State Islamic University of North Sumatra (UINSU). The following is an open source application project that we are currently developing.
+<small>Hello, we are Haxorsprogramming. Programming club at the State Islamic University of North Sumatra (UINSU). The following is an open source application project that we are currently developing.</small>
 
 <span align='center'>
 <table width='100%'>
