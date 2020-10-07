@@ -1,4 +1,4 @@
-Hello, we are Haxorsprogramming. Programming club at the State Islamic University of North Sumatra (UINSU). The following is an open source application project that we are currently developing.
+Hello, we are Haxorsprogramming. Programming club at the State Islamic University of North Sumatra (<a href='https://uinsu.ac.id'>UINSU</a>). The following is an open source application project that we are currently developing.
 
 **Business & Travel Cluster**
 <table>
