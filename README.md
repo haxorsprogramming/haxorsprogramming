@@ -1,7 +1,7 @@
 
 Hello, we are Haxorsprogramming. Programming club at the State Islamic University of North Sumatra (<a href='https://uinsu.ac.id'>UINSU</a>). The following is an open source application project that we are currently developing.
 
-**Business & Travel Cluster**
+**Business & Travel Product**
 <table>
 <tr>
 <th>No</th><th>Project</th><th>Status</th><th>Stable Release</th><th>On going to next release</th><th>Detail</th>
@@ -32,7 +32,7 @@ Hello, we are Haxorsprogramming. Programming club at the State Islamic Universit
 </tr>
 </table>
 
-**Education & Social Cluster**
+**Education & Social Product**
 <table>
 <tr>
 <th>No</th><th>Project</th><th>Status</th><th>Stable Release</th><th>On going to next release</th><th>Detail</th>
@@ -50,5 +50,7 @@ Hello, we are Haxorsprogramming. Programming club at the State Islamic Universit
 </td>
 </tr>
 </table>
+
+
 
 **Want to help us develop all of the above products? Open <a href='https://github.com/haxorsprogramming/Haxors-Contributors'>Haxors Contributors Programs</a>**
