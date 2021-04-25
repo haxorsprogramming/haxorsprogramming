@@ -51,6 +51,26 @@ Hello, we are Haxorsprogramming. Programming club at the State Islamic Universit
 </tr>
 </table>
 
+**Machine Learning & IoT (Internet of Thing) Product**
+<table>
+<tr>
+<th>No</th><th>Project</th><th>Status</th><th>Stable Release</th><th>On going to next release</th><th>Detail</th>
+</tr>
+<tr>
+<td>1</td><td><a href='https://github.com/haxorsprogramming/Nadha-School'>Smart Trash</a></td><td>On Development</td><td> - </td><td> - </td><td><a href='http://project.haxors.or.id/Nadha-Laundry'>Link</a>
+</td>
+</tr>
+  <tr>
+<td>2</td><td><a href='https://github.com/haxorsprogramming/Nadha-E-Learning'>Facecloud.ai</a></td><td>On Development</td><td> - </td><td> - <td><a href='http://project.haxors.or.id/Nadha-Library'>Link</a>
+</td>
+</tr>
+<tr>
+<td>3</td><td><a href='https://github.com/haxorsprogramming/Nadha-Library'>Real Event Broadcasting</a></td><td>On Development</td><td> - </td><td> - <td><a href='http://project.haxors.or.id/Nadha-E-Learning'>Link</a>
+</td>
+</tr>
+</table>
+
+
 
 
 **Want to help us develop all of the above products? Open <a href='https://github.com/haxorsprogramming/Haxors-Contributors'>Haxors Contributors Programs</a>**
