@@ -57,7 +57,7 @@ Hello, we are Haxorsprogramming. Programming club at the State Islamic Universit
 <th>No</th><th>Project</th><th>Status</th><th>Stable Release</th><th>On going to next release</th><th>Detail</th>
 </tr>
 <tr>
-<td>1</td><td><a href='https://github.com/haxorsprogramming/Nadha-School'>Smart Trash</a></td><td>On Development</td><td> - </td><td> - </td><td><a href='http://project.haxors.or.id/Nadha-Laundry'>Link</a>
+<td>1</td><td><a href='https://github.com/haxorsprogramming/Nadha-School'>Smart Trash Can</a></td><td>On Development</td><td> - </td><td> - </td><td><a href='http://project.haxors.or.id/Nadha-Laundry'>Link</a>
 </td>
 </tr>
   <tr>
