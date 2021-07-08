@@ -61,7 +61,7 @@ Hello, we are Haxorsprogramming. Programming club at the State Islamic Universit
 </td>
 </tr>
   <tr>
-<td>2</td><td><a href='https://github.com/haxorsprogramming/Facerecognition-Server'>Facecloud.ai</a></td><td>On Development</td><td> - </td><td> - <td><a href='https://github.com/haxorsprogramming/Facerecognition-Server'>Link</a>
+<td>2</td><td><a href='https://github.com/haxorsprogramming/Facecloud.AI'>Facecloud.ai</a></td><td>On Development</td><td> - </td><td> - <td><a href='https://github.com/haxorsprogramming/Facecloud.AI'>Link</a>
 </td>
 </tr>
 <tr>
