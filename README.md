@@ -42,7 +42,7 @@ Hello, we are Haxorsprogramming. Programming club at the State Islamic Universit
 </td>
 </tr>
   <tr>
-<td>1</td><td><a href='https://github.com/haxorsprogramming/Nadha-PPDB'>Nadha PPDB</a></td><td>On Development</td><td> - </td><td> - </td><td><a href='http://project.haxors.or.id/Nadha-PPDB'>Link</a>
+<td>2</td><td><a href='https://github.com/haxorsprogramming/Nadha-PPDB'>Nadha PPDB</a></td><td>On Development</td><td> - </td><td> - </td><td><a href='http://project.haxors.or.id/Nadha-PPDB'>Link</a>
 </td>
 </tr>
   <tr>
