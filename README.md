@@ -7,11 +7,11 @@ Hello, we are Haxorsprogramming. Programming club at the State Islamic Universit
 <th>No</th><th>Project</th><th>Status</th><th>Stable Release</th><th>On going to next release</th><th>Detail</th>
 </tr>
 <tr>
-<td>1</td><td><a href='https://github.com/haxorsprogramming/Nadha-Laundry'>Nadha Laundry</a></td><td>Release</td><td>3.20</td><td>Yes</td><td><a href='http://project.haxors.or.id/Nadha-Laundry'>Link</a>
+<td>1</td><td><a href='https://github.com/haxorsprogramming/Nadha-Laundry'>Nadha Laundry</a></td><td>Release</td><td>3.2.1</td><td>Yes</td><td><a href='http://project.haxors.or.id/Nadha-Laundry'>Link</a>
 </td>
 </tr>
 <tr>
-<td>2</td><td><a href='https://github.com/haxorsprogramming/Nadha-Resto'>Nadha Resto</a></td><td>Release</td><td>3.20</td><td>Yes</td><td><a href='http://project.haxors.or.id/Nadha-Resto'>Link</a>
+<td>2</td><td><a href='https://github.com/haxorsprogramming/Nadha-Resto'>Nadha Resto</a></td><td>Release</td><td>3.2.0</td><td>Yes</td><td><a href='http://project.haxors.or.id/Nadha-Resto'>Link</a>
 </td>
 </tr>
 <tr>
