@@ -12,7 +12,7 @@ Support us if you like what we have made
   <table>
     <tr>
       <td><a href="" style="margin-right:50px;">
-<img src="https://nadhamedia.s3.ap-southeast-1.amazonaws.com/nadha_asset/logo_project/nadha_laundry_logo.jpg" width="200px">
+<img src="https://nadhamedia.s3.ap-southeast-1.amazonaws.com/nadha_asset/logo_project/mondry_logo.png" width="200px">
         </a></td>
       <td>
         <small>Project name </small><br/>
