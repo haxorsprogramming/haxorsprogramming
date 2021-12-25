@@ -17,15 +17,15 @@ Support us if you like what we have made
       <td>
         <small>Project name </small><br/>
         <strong>Mondry</strong><br/>
-        <small>Stable release </small><br/>
-        <strong>3.1.2</strong><br/>
         <small>Repo Link </small><br/>
         <strong><a href="https://github.com/haxorsprogramming/Mondry">Link</a></strong><br/>
         <small>Demo Link </small><br/>
         <strong>Demo</strong>
       </td>
       <td width="500px">
-        Laundry management application, is our first project. This application can be used to manage the laundry system, starting from recording service usage, raw material information, and financial reports
+        Laundry management application, is our first project. This application can be used to manage the laundry system, starting from recording service usage, raw material information, and financial reports<br/>
+        <small>Status release </small><br/>
+        <strong>3.1.2 (Stable)</strong><br/>
       </td>
     </tr>
     <tr>
