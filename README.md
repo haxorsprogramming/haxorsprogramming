@@ -80,7 +80,7 @@ Support us if you like what we have made
       <td width="500px">
         For workshops that require digitization in service management, sales, and financial reports<br/>
         <small>Status release </small><br/>
-        <strong>3.1.2 (Stable)</strong><br/>
+        <strong>On development</strong><br/>
       </td>
     </tr>
   </table>  
