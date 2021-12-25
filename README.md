@@ -11,7 +11,7 @@ Support us if you like what we have made
 **Our Opensource Project**
   <table>
     <tr>
-      <td><a href="" style="margin-right:50px;">
+      <td><a href="https://github.com/haxorsprogramming/Mondry" style="margin-right:50px;">
 <img src="https://nadhamedia.s3.ap-southeast-1.amazonaws.com/nadha_asset/logo_project/mondry_logo.png" width="200px">
         </a></td>
       <td>
@@ -20,7 +20,7 @@ Support us if you like what we have made
         <small>Stable release </small><br/>
         <strong>3.1.2</strong><br/>
         <small>Repo Link </small><br/>
-        <strong><a href="https://github.com/haxorsprogramming/Nadha-Laundry">Link</a></strong><br/>
+        <strong><a href="https://github.com/haxorsprogramming/Mondry">Link</a></strong><br/>
         <small>Demo Link </small><br/>
         <strong>Demo</strong>
       </td>
