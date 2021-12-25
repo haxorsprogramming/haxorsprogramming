@@ -87,10 +87,10 @@ Support us if you like what we have made
 
 **Haxors Development Team**
 <ul>
-  <li>Hasnah Nur Ardita (Project Manager, Front End Developer)</li>
+  <li>Hasnah Nur Ardita Nasution(Project Manager, Front End Developer)</li>
   <li>Aditia Darma Nasution (Project Manager, Back End Developer)</li>
   <li>Adam Falizufa Sagara (Dev Ops, Back End Developer)</li>
-  <li>Ahmad Fauzan (Front End Developer, Mobile Developer)</li>
+  <li>Ahmad Fauzan Nasution(Front End Developer, Mobile Developer)</li>
 </ul>
 
 **Want to get live updates about the progress of our project? please follow our <a href="https://t.me/haxorsupdate">telegram group</a>**<br/>
