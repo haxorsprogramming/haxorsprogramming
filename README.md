@@ -6,8 +6,9 @@ Support us if you like what we have made
 <a href="https://sociabuzz.com/haxorsprogramming/tribe"><img src="https://nadhamedia.s3.ap-southeast-1.amazonaws.com/nadha_asset/utils/socialbuzz.png" width="120px"></a>
 </div>
 <br/>
-<center>
+<p style="text-align:center">
 Business & Travel Project
+</p>
 <div>
 <a href="" style="margin-right:30px;">
 <img src="https://nadhamedia.s3.ap-southeast-1.amazonaws.com/nadha_asset/logo_project/nadha_laundry_logo.jpg" width="200px">
