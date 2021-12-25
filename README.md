@@ -21,5 +21,5 @@ Support us if you like what we have made
 </div>
 </center>
 
-**Want to get live updates about the progress of our project? please follow our <a href="https://t.me/haxorsupdate">telegram group</a>**
+**Want to get live updates about the progress of our project? please follow our <a href="https://t.me/haxorsupdate">telegram group</a>**<br/>
 **Please help subscribe to our youtube channel at <a href='https://www.youtube.com/channel/UC7_pSHlXnZCXN4v8TbvcIEg'>Youtube Nadhamedia</a>**
