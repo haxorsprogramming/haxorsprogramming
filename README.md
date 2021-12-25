@@ -1,18 +1,24 @@
-
-
 Hello, we are Haxorsprogramming. Programming club at the State Islamic University of North Sumatra (<a href='https://uinsu.ac.id'>UINSU</a>). The following is an open source application project that we are currently developing.
 
-**Business & Travel Product**
+Support us if you like what we have made 
+<div>
+<a href="https://saweria.co/haxorsprogramming"><img src="https://nadhamedia.s3.ap-southeast-1.amazonaws.com/nadha_asset/utils/saweria.png" width="120px"></a>
+<a href="https://sociabuzz.com/haxorsprogramming/tribe"><img src="https://nadhamedia.s3.ap-southeast-1.amazonaws.com/nadha_asset/utils/socialbuzz.png" width="120px"></a>
+</div>
+
+
+
+**Business & Travel Project**
 <table>
 <tr>
 <th>No</th><th>Project</th><th>Status</th><th>Stable Release</th><th>On going to next release</th><th>Detail</th>
 </tr>
 <tr>
-<td>1</td><td><a href='https://github.com/haxorsprogramming/Nadha-Laundry'>Nadha Laundry</a></td><td>Release</td><td>3.2.1</td><td>Yes</td><td><a href='http://project.haxors.or.id/Nadha-Laundry'>Link</a>
+<td>1</td><td><a href='https://github.com/haxorsprogramming/Nadha-Laundry'>Mondry</a></td><td>Release</td><td>3.2.1</td><td>Yes</td><td><a href='http://project.haxors.or.id/Nadha-Laundry'>Link</a>
 </td>
 </tr>
 <tr>
-<td>2</td><td><a href='https://github.com/haxorsprogramming/Nadha-Resto'>Nadha Resto</a></td><td>Release</td><td>3.2.0</td><td>Yes</td><td><a href='http://project.haxors.or.id/Nadha-Resto'>Link</a>
+<td>2</td><td><a href='https://github.com/haxorsprogramming/Nadha-Resto'>YuResto</a></td><td>Release</td><td>3.2.0</td><td>Yes</td><td><a href='http://project.haxors.or.id/Nadha-Resto'>Link</a>
 </td>
 </tr>
 <tr>
