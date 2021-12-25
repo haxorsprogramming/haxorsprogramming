@@ -16,25 +16,14 @@ Support us if you like what we have made
         </a></td>
       <td>
         <li>Project Name : Mondry</li>
-        <li>Stable Release : </li>
+        <li>Stable Release : 3.1.2</li>
+        <li>Repository</li>
+      </td>
+      <td width="500px">
+        Laundry management application, is our first project. This application can be used to manage the laundry system, starting from recording service usage, raw material information, and financial reports
       </td>
     </tr>
-  </table>
-
-  <a href="" style="margin-right:50px;">
-<img src="https://nadhamedia.s3.ap-southeast-1.amazonaws.com/nadha_asset/logo_project/nadha_resto.png" width="200px">
-</a>
-  <a href="" style="margin-right:50px;">
-<img src="https://nadhamedia.s3.ap-southeast-1.amazonaws.com/nadha_asset/logo_project/nadha_school_logo.jpg" width="200px">
-</a>
-  <a href="" style="margin-right:50px;">
-<img src="https://nadhamedia.s3.ap-southeast-1.amazonaws.com/nadha_asset/logo_project/bengkel-caca.png" width="200px">
-</a>
-</div>
-<div>
-
-</div>
-  
+  </table>  
 </center>
 
 **Want to get live updates about the progress of our project? please follow our <a href="https://t.me/haxorsupdate">telegram group</a>**<br/>
