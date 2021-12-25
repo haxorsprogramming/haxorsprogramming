@@ -35,15 +35,15 @@ Support us if you like what we have made
       <td>
         <small>Project name </small><br/>
         <strong>YuResto</strong><br/>
-        <small>Stable release </small><br/>
-        <strong>3.1.1</strong><br/>
         <small>Repo Link </small><br/>
         <strong><a href="https://github.com/haxorsprogramming/Nadha-Laundry">Link</a></strong><br/>
         <small>Demo Link </small><br/>
         <strong>Demo</strong>
       </td>
       <td width="500px">
-        Restaurant management application, if you are the owner of a restaurant or other place to eat, you can use this application in managing your business
+        Restaurant management application, if you are the owner of a restaurant or other place to eat, you can use this application in managing your business<br/>
+        <small>Status release </small><br/>
+        <strong>3.1.1 (Stable)</strong><br/>
       </td>
     </tr>
     <tr>
@@ -53,8 +53,6 @@ Support us if you like what we have made
       <td>
         <small>Project name </small><br/>
         <strong>Nadha School</strong><br/>
-        <small>Stable release </small><br/>
-        <strong>-</strong><br/>
         <small>Repo Link </small><br/>
         <strong><a href="https://github.com/haxorsprogramming/Nadha-Laundry">Link</a></strong><br/>
         <small>Demo Link </small><br/>
@@ -62,6 +60,9 @@ Support us if you like what we have made
       </td>
       <td width="500px">
         Used for school agencies in managing the learning system, managing attendance, exams, student admissions, and others
+        <br/>
+        <small>Status release </small><br/>
+        <strong>On development</strong><br/>
       </td>
     </tr>
     <tr>
@@ -71,15 +72,15 @@ Support us if you like what we have made
       <td>
         <small>Project name </small><br/>
         <strong>Bengkel Caca</strong><br/>
-        <small>Stable release </small><br/>
-        <strong>-</strong><br/>
         <small>Repo Link </small><br/>
         <strong><a href="https://github.com/haxorsprogramming/Nadha-Laundry">Link</a></strong><br/>
         <small>Demo Link </small><br/>
         <strong>Demo</strong>
       </td>
       <td width="500px">
-        For workshops that require digitization in service management, sales, and financial reports
+        For workshops that require digitization in service management, sales, and financial reports<br/>
+        <small>Status release </small><br/>
+        <strong>3.1.2 (Stable)</strong><br/>
       </td>
     </tr>
   </table>  
