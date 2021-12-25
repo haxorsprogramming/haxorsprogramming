@@ -23,7 +23,7 @@ Support us if you like what we have made
         <strong>Demo</strong>
       </td>
       <td width="500px">
-        Laundry management application, is our first project. This application can be used to manage the laundry system, starting from recording service usage, raw material information, and financial reports<br/>
+        Laundry management application, is our first project. This application can be used to manage the laundry system, starting from recording service usage, raw material information, and financial reports<br/><br/>
         <small>Status release </small><br/>
         <strong>3.1.2 (Stable)</strong><br/>
       </td>
@@ -41,7 +41,7 @@ Support us if you like what we have made
         <strong>Demo</strong>
       </td>
       <td width="500px">
-        Restaurant management application, if you are the owner of a restaurant or other place to eat, you can use this application in managing your business<br/>
+        Restaurant management application, if you are the owner of a restaurant or other place to eat, you can use this application in managing your business<br/><br/>
         <small>Status release </small><br/>
         <strong>3.1.1 (Stable)</strong><br/>
       </td>
@@ -60,7 +60,7 @@ Support us if you like what we have made
       </td>
       <td width="500px">
         Used for school agencies in managing the learning system, managing attendance, exams, student admissions, and others
-        <br/>
+        <br/><br/>
         <small>Status release </small><br/>
         <strong>On development</strong><br/>
       </td>
@@ -78,7 +78,7 @@ Support us if you like what we have made
         <strong>Demo</strong>
       </td>
       <td width="500px">
-        For workshops that require digitization in service management, sales, and financial reports<br/>
+        For workshops that require digitization in service management, sales, and financial reports<br/><br/>
         <small>Status release </small><br/>
         <strong>On development</strong><br/>
       </td>
