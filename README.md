@@ -34,16 +34,16 @@ Support us if you like what we have made
         </a></td>
       <td>
         <small>Project name </small><br/>
-        <strong>Mondry</strong><br/>
+        <strong>YuResto</strong><br/>
         <small>Stable release </small><br/>
-        <strong>3.1.2</strong><br/>
+        <strong>3.1.1</strong><br/>
         <small>Repo Link </small><br/>
         <strong><a href="https://github.com/haxorsprogramming/Nadha-Laundry">Link</a></strong><br/>
         <small>Demo Link </small><br/>
         <strong>Demo</strong>
       </td>
       <td width="500px">
-        Laundry management application, is our first project. This application can be used to manage the laundry system, starting from recording service usage, raw material information, and financial reports
+        Restaurant management application, if you are the owner of a restaurant or other place to eat, you can use this application in managing your business
       </td>
     </tr>
     <tr>
@@ -52,16 +52,16 @@ Support us if you like what we have made
         </a></td>
       <td>
         <small>Project name </small><br/>
-        <strong>Mondry</strong><br/>
+        <strong>Nadha School</strong><br/>
         <small>Stable release </small><br/>
-        <strong>3.1.2</strong><br/>
+        <strong>-</strong><br/>
         <small>Repo Link </small><br/>
         <strong><a href="https://github.com/haxorsprogramming/Nadha-Laundry">Link</a></strong><br/>
         <small>Demo Link </small><br/>
         <strong>Demo</strong>
       </td>
       <td width="500px">
-        Laundry management application, is our first project. This application can be used to manage the laundry system, starting from recording service usage, raw material information, and financial reports
+        Used for school agencies in managing the learning system, managing attendance, exams, student admissions, and others
       </td>
     </tr>
     <tr>
@@ -79,7 +79,7 @@ Support us if you like what we have made
         <strong>Demo</strong>
       </td>
       <td width="500px">
-        Laundry management application, is our first project. This application can be used to manage the laundry system, starting from recording service usage, raw material information, and financial reports
+        For workshops that require digitization in service management, sales, and financial reports
       </td>
     </tr>
   </table>  
