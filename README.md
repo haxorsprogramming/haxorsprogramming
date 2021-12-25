@@ -5,10 +5,19 @@ Support us if you like what we have made
 <a href="https://saweria.co/haxorsprogramming"><img src="https://nadhamedia.s3.ap-southeast-1.amazonaws.com/nadha_asset/utils/saweria.png" width="120px"></a>
 <a href="https://sociabuzz.com/haxorsprogramming/tribe"><img src="https://nadhamedia.s3.ap-southeast-1.amazonaws.com/nadha_asset/utils/socialbuzz.png" width="120px"></a>
 </div>
-
-
-
-**Business & Travel Project**
+<br/>
+<center>
+Business & Travel Project
+<div>
+<a href="" style="margin-right:30px;">
+<img src="https://nadhamedia.s3.ap-southeast-1.amazonaws.com/nadha_asset/logo_project/nadha_laundry_logo.jpg" width="200px">
+</a><a href="" style="margin-right:30px;">
+<img src="https://nadhamedia.s3.ap-southeast-1.amazonaws.com/nadha_asset/logo_project/nadha_resto.png" width="200px">
+</a><a href="" style="margin-right:30px;">
+<img src="https://nadhamedia.s3.ap-southeast-1.amazonaws.com/nadha_asset/logo_project/nadha_school_logo.jpg" width="200px">
+</a>
+</div>
+</center>
 <table>
 <tr>
 <th>No</th><th>Project</th><th>Status</th><th>Stable Release</th><th>On going to next release</th><th>Detail</th>
