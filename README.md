@@ -7,7 +7,7 @@ Support us if you like what we have made
 </div>
 <br/>
 <p style="font-size:20px;">
-Our Opensource Project
+** Our Opensource Project
 </p>
 <div>
 <a href="" style="margin-right:50px;">
