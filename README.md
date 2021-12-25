@@ -19,6 +19,16 @@ Support us if you like what we have made
 <img src="https://nadhamedia.s3.ap-southeast-1.amazonaws.com/nadha_asset/logo_project/nadha_school_logo.jpg" width="200px">
 </a>
 </div>
+<div>
+<a href="" style="margin-right:50px;">
+<img src="https://nadhamedia.s3.ap-southeast-1.amazonaws.com/nadha_asset/logo_project/bengkel-caca.png" width="200px">
+</a><a href="" style="margin-right:50px;">
+<img src="https://nadhamedia.s3.ap-southeast-1.amazonaws.com/nadha_asset/logo_project/nadha_resto.png" width="200px">
+</a><a href="" style="margin-right:50px;">
+<img src="https://nadhamedia.s3.ap-southeast-1.amazonaws.com/nadha_asset/logo_project/nadha_school_logo.jpg" width="200px">
+</a>
+</div>
+  
 </center>
 
 **Want to get live updates about the progress of our project? please follow our <a href="https://t.me/haxorsupdate">telegram group</a>**<br/>
