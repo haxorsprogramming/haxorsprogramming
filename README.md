@@ -66,14 +66,14 @@ Support us if you like what we have made
       </td>
     </tr>
     <tr>
-      <td><a href="" style="margin-right:50px;">
+      <td><a href="https://github.com/haxorsprogramming/Bengkel-Caca" style="margin-right:50px;">
 <img src="https://nadhamedia.s3.ap-southeast-1.amazonaws.com/nadha_asset/logo_project/bengkel-caca.png" width="200px">
         </a></td>
       <td>
         <small>Project name </small><br/>
         <strong>Bengkel Caca</strong><br/>
         <small>Repo Link </small><br/>
-        <strong><a href="https://github.com/haxorsprogramming/Nadha-Laundry">Link</a></strong><br/>
+        <strong><a href="https://github.com/haxorsprogramming/Bengkel-Caca">Link</a></strong><br/>
         <small>Demo Link </small><br/>
         <strong>Demo</strong>
       </td>
