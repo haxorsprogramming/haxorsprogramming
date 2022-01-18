@@ -48,7 +48,7 @@ Support us if you like what we have made
     </tr>
     <tr>
       <td><a href="" style="margin-right:50px;">
-<img src="https://nadhamedia.s3.ap-southeast-1.amazonaws.com/nadha_asset/logo_project/nadha_school_logo.jpg" width="200px">
+<img src="https://ik.imagekit.io/ebunga/haxors/Logo_Project/nadha_school_logo_D3umtYKUp.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1609130539268" width="200px">
         </a></td>
       <td>
         <small>Project name </small><br/>
