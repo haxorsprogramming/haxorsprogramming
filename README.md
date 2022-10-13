@@ -86,12 +86,6 @@ Support us if you like what we have made
   </table>  
 </center>
 
-**Haxors Development Team**
-<ul>
-  <li>Aditia Darma Nasution (Project Manager, Back End Developer)</li>
-  <li>Adam Falizufa Sagara (Dev Ops, Back End Developer)</li>
-  <li>Ahmad Fauzan Nasution(Front End Developer, Mobile Developer)</li>
-</ul>
 
 **Contact Info**
 <strong>Email : alditha.forum@gmail.com</strong>
