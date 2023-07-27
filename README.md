@@ -1,11 +1,5 @@
 Hello, we are Haxorsprogramming. Programming club at the State Islamic University of North Sumatra (<a href='https://uinsu.ac.id'>UINSU</a>). The following is an open source application project that we are currently developing.
 
-Support us if you like what we have made 
-<div>
-<a href="https://saweria.co/haxorsprogramming"><img src="https://ik.imagekit.io/ebunga/haxors/Base/saweria.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642493732443" width="120px"></a>
-<a href="https://sociabuzz.com/haxorsprogramming/tribe"><img src="https://ik.imagekit.io/ebunga/haxors/Base/socialbuzz.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642493695542" width="120px"></a>
-</div>
-<br/>
 <center>
   
 **Our Opensource Project**
